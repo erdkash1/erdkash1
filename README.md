@@ -82,16 +82,9 @@ Built a Mongolian language voice AI assistant serving 2,000–5,000 internal use
 
 ---
 
-## 📊 GitHub Stats
-
-![Erdenesuren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdkash1&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdkash1&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/erdenesuren-shirmen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdenesuren-shirmen-0912b425b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erdkash1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/erdkash1)
 
