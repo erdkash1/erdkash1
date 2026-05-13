@@ -1,8 +1,8 @@
-# Hi, I'm Erdenesuren (Erden) 👋
+# Hi, I'm Erdenesuren (Iggy) 👋
 
 **Backend Java Developer** · Spring Boot · AWS · PostgreSQL · Docker
 
-🎓 CS Graduate, Missouri State University · May 2026  
+🎓 CS Graduate, Missouri State University · July 2026  
 💼 Actively seeking backend / software engineer roles · OPT (STEM eligible, 3 years)  
 📍 Springfield, MO · Open to relocation & remote  
 📫 erdkash1@gmail.com
