@@ -1,4 +1,4 @@
-# Hi, I'm Erdenesuren (Erden) 👋
+# Hi, I'm Erdenesuren (Iggy) 👋
 
 **Backend Java Developer** · Spring Boot · AWS · PostgreSQL · Docker · Microservices
 
