@@ -112,4 +112,4 @@ Built a Mongolian language voice AI assistant serving 2,000–5,000 internal use
 
 ---
 
-*💡 Open to backend Java / software engineer roles — OPT authorized, STEM OPT eligible (3 years)*
+*💡 Open to backend Java / software engineer roles*
