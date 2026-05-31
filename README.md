@@ -1,4 +1,4 @@
-# Hi, I'm Erdenesuren (Iggy) 👋
+# Hi, I'm Erdenesuren Shirmen(Iggy) 👋
 
 **Backend Java Developer** · Spring Boot · AWS · PostgreSQL · Docker · Microservices
 
