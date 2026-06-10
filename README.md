@@ -1,4 +1,4 @@
-# Hi, I'm Erdenesuren Shirmen(Iggy) 👋
+# Hi, I'm Erdenesuren Shirmen (Iggy) 👋
 
 **Backend Java Developer** · Spring Boot · AWS · PostgreSQL · Docker · Microservices
 
@@ -93,7 +93,7 @@
 
 ## 💼 Experience
 
-**Software Engineer Intern** · ICT Group Mongolia · *May 2024 – Aug 2024*  
+**Software Engineer Intern** · ICT Group Mongolia · *May 2024 – Aug 2025*  
 Built a Mongolian language voice AI assistant serving 2,000–5,000 internal users — real-time pipeline integrating OpenAI NLP and Google VoIP APIs in Python, delivered within a 3-month deadline.
 
 ---
