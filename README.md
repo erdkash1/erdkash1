@@ -1,6 +1,8 @@
 # Hi, I'm Erdenesuren Shirmen (Iggy) 👋
 
-**Backend Java Developer** · Spring Boot · AWS · PostgreSQL · Docker · Microservices
+**Backend Java Developer** · **QA Automation Engineer** · Spring Boot · AWS · PostgreSQL · Docker · Microservices
+
+
 
 🎓 CS Graduate, Missouri State University · July 2026  
 💼 Actively seeking Backend Developer / Software Engineer roles · OPT (STEM eligible, 3 years)  
