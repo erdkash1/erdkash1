@@ -4,7 +4,7 @@
 
 🎓 CS Graduate, Missouri State University · July 2026  
 💼 Actively seeking Backend Developer / Software Engineer roles · OPT (STEM eligible, 3 years)  
-📍 Springfield, MO · Open to relocation & remote  
+📍 Washington, DC · Open to relocation & remote  
 📫 erdkash1@gmail.com
 
 ---
